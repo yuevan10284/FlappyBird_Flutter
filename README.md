@@ -1,2 +1,2 @@
-# flappy_bird_game
+# Flappy Bird
 
